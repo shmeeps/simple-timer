@@ -1,6 +1,6 @@
 {
     "name": "shmeeps/simple-timer",
-    "description": "Common interface for logging libraries",
+    "description": "Simple interface for timing/benchmarking PHP applications",
     "keywords": ["timer"],
     "homepage": "https://github.com/shmeeps/simple-timer",
     "license": "MIT",
@@ -20,7 +20,7 @@
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "1.0.x-dev"
+            "dev-master": "1.1.x-dev"
         }
     }
 }
